@@ -1,0 +1,19 @@
+{
+  "name": "vue-blog",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "authors": {
+    "name": "chengzhangHu",
+    "email": "simple2012hcz@126.com"
+  },
+  "repository": "/vue-blog",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
