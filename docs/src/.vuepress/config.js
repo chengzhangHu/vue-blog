@@ -25,21 +25,22 @@ module.exports = {
    */
   themeConfig: {
     repo: '',
+    logo:'/images/logo.png',
     editLinks: false,
     docsDir: '',
     editLinkText: '',
-    lastUpdated: false,
+    lastUpdated: true,
     nav: [
       {
-        text: 'Guide',
+        text: '标签',
         link: '/guide/',
       },
       {
-        text: 'Config',
+        text: '归档',
         link: '/config/'
       },
       {
-        text: 'VuePress',
+        text: 'GitHub',
         link: 'https://v1.vuepress.vuejs.org'
       }
     ],
