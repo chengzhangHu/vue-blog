@@ -1,3 +1,4 @@
 node_modules
-docs/src/.vuepress/dist
-docs/node_modules
+docs/.vuepress/dist
+docs/dist
+dist

@@ -1,4 +1,5 @@
 ---
+layout: PostComponent
 footer: Made by chengzhangHu with ❤️
 ---
 <PostComponent/>

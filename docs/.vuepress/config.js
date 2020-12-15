@@ -1,7 +1,9 @@
-const { description } = require('../../package')
+const { description } = require('../../package');
+const path = require('path');
 
 module.exports = {
   title: '前端漫谈',
+  dest: path.resolve(__dirname,"../../dist"),
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
